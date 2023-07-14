@@ -39,7 +39,7 @@ public class LoginProcController implements Controller{
 		
 		}
 		
-		
+//		로그인에서 할일이없네1
 //		request.getRequestDispatcher("loginForm.jsp").forward(request, response);
 		
 	}
