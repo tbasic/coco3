@@ -53,7 +53,7 @@ if(msg!=null && msg.equals("0")){
 	out.println("<font color='red' size='5'>아이디확인</font>");
 }
 %>
-
+<!-- 로그인폼 그냥주석 -->
 
 </div>
 </body>
