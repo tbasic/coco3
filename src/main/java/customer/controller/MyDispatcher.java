@@ -40,7 +40,8 @@ public class MyDispatcher extends HttpServlet{
 		
 		
 //		mb1에서 작업 그냥 주석
-		
+//		mb1에서 작업 그냥 주석2
+				
 		
 	}
 
