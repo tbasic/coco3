@@ -36,7 +36,7 @@ public class MyDispatcher extends HttpServlet{
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
-		
+		//그냥 주석마스터에서1
 		
 		
 		
