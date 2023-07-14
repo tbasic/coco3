@@ -37,7 +37,7 @@ public class MyDispatcher extends HttpServlet{
 			// TODO: handle exception
 		}
 		
-		
+//		mb1에서 작업 그냥 주석
 		
 		
 	}
